@@ -1,1 +1,1 @@
-# galagaBrowserFriendly
+# TowerSiege-1
